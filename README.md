@@ -4,7 +4,7 @@ An app I wrote with React.
 [Take a look, it's on Github pages](https://github.com/AmitDoanias/Netflix "Github pages link")
 
 <!-- ![Homepage image](src/assets/imgs/home-dekstop.jpg "Homepage image") -->
-![Homepage image](src/assets/imgs/home-dekstop.png "Homepage image")
+<!-- ![Homepage image](src/assets/imgs/home-dekstop.png "Homepage image") -->
 ___
 
 ### Table of Contents
@@ -48,18 +48,6 @@ Open http://localhost:3000 to view it in the browser.
 ### Trailer
 
 ![Trailer image](src/assets/imgs/trailer-dekstop.png "Trailer")
-
-### Your contacts
-You can view your different contacts, filter them by number or name. 
-In addition, you can transform money, randomly, to one of your contacts by pressing on the "I'm flexible" button. You would get a message about the details right after, of course.
-
-![Contacts page image](src/assets/imgs/contact-desktop-regular.jpg "Contacts page")
-
-### Add a new contact
-In the same page, you can click on the button "Add a new contact", and the right fields would appear.
-
-![Add a contact mode - image](src/assets/imgs/contact-dekstop-add.jpg "Add a contact mode")
-
 ### Some mobile!
 <img src="src/assets/imgs/trailer-mobile" width="25%" style="float: left;"/>
 <img src="src/assets/imgs/trailer-dekstop.png" width="25%" style="float: left"/>
