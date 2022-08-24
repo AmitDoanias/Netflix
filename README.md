@@ -3,8 +3,7 @@
 An app I wrote with React.
 [Take a look, it's on Github pages](https://github.com/AmitDoanias/Netflix "Github pages link")
 
-<!-- ![Homepage image](src/assets/imgs/home-dekstop.jpg "Homepage image") -->
-<!-- ![Homepage image](src/assets/imgs/home-dekstop.png "Homepage image") -->
+![Homepage image](src/assets/imgs/home-dekstop.jpg "Homepage image")
 ___
 
 ### Table of Contents
@@ -14,7 +13,7 @@ ___
 - [Showcase](#showcase)
 
 ## Description
-a bit about the project - a small App that was built in a few hours
+a bit about the project - a small App that was built in a few hours with React.js
 Click on a movie will open a trailer 
 #### Technologies
 
@@ -23,7 +22,6 @@ Click on a movie will open a trailer
 - React Youtube
 - Firebase
 - React CLI & Github pages
-
 
 ## Features
 Please feel free to take a look of the different components of the website - [Showcase](#showcase)
@@ -49,6 +47,6 @@ Open http://localhost:3000 to view it in the browser.
 
 ![Trailer image](src/assets/imgs/trailer-dekstop.png "Trailer")
 ### Some mobile!
-<img src="src/assets/imgs/trailer-mobile" width="25%" style="float: left;"/>
+<img src="src/assets/imgs/trailer-mobile.png" width="25%" style="float: left;"/>
 <img src="src/assets/imgs/trailer-dekstop.png" width="25%" style="float: left"/>
-<img src="src/assets/imgs/trailer-mobile1.jpg" width="25%" style="float: left;"/>
+<img src="src/assets/imgs/trailer-mobile1.png" width="25%" style="float: left;"/>
