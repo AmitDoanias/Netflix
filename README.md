@@ -3,7 +3,7 @@
 An app I wrote with React.
 [Take a look, it's on Github pages](https://github.com/AmitDoanias/Netflix "Github pages link")
 
-![Homepage image](src/assets/imgs/home-dekstop.jpg "Homepage image")
+![Homepage image](src/assets/imgs/home-dekstop.png "Homepage image")
 ___
 
 ### Table of Contents
@@ -47,6 +47,4 @@ Open http://localhost:3000 to view it in the browser.
 
 ![Trailer image](src/assets/imgs/trailer-dekstop.png "Trailer")
 ### Some mobile!
-<img src="src/assets/imgs/trailer-mobile.png" width="25%" style="float: left;"/>
-<img src="src/assets/imgs/trailer-dekstop.png" width="25%" style="float: left"/>
-<img src="src/assets/imgs/trailer-mobile1.png" width="25%" style="float: left;"/>
+<img src="src/assets/imgs/trailer-mobile.png" width="25%" style="float: left"/><img src="src/assets/imgs/trailer-dekstop.png" width="25%" style="float: left;"/><img src="src/assets/imgs/trailer-mobile1.png" width="25%" style="float: left;"/>
