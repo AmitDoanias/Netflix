@@ -41,10 +41,7 @@ npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-## Showcase
-
 ### Trailer
-
 ![Trailer image](src/assets/imgs/trailer-dekstop.png "Trailer")
 ### Some mobile!
 <img src="src/assets/imgs/trailer-mobile.png" width="25%" style="float: left"/><img src="src/assets/imgs/home-mobile.png" width="25%" style="float: left;"/><img src="src/assets/imgs/trailer-mobile1.png" width="25%" style="float: left;"/>
