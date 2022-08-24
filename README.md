@@ -1,70 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Netflix
+An app I wrote with React.
+[Take a look, it's on Github pages](https://github.com/AmitDoanias/Netflix "Github pages link")
 
-## Available Scripts
+<!-- ![Homepage image](src/assets/imgs/home-dekstop.jpg "Homepage image") -->
+![Homepage image](src/assets/imgs/home-dekstop.png "Homepage image")
+___
 
-In the project directory, you can run:
+### Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Getting started](#getting-started)
+- [Showcase](#showcase)
 
-### `npm start`
+## Description
+a bit about the project - a small App that was built in a few hours
+Click on a movie will open a trailer 
+#### Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- CSS
+- React Youtube
+- Firebase
+- React CLI & Github pages
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Features
+Please feel free to take a look of the different components of the website - [Showcase](#showcase)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTTP request for Trailers, Images
+- Responsive and well designed.
 
-### `npm run build`
+## Getting started
+Clone the project or dowload the files on top.
+```
+git clone https://github.com/AmitDoanias/Netflix.git
+```
+Open the terminal and enter the following line to run it locally on your computer:
+```
+npm start
+```
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Showcase
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Trailer
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Trailer image](src/assets/imgs/trailer-dekstop.png "Trailer")
 
-### `npm run eject`
+### Your contacts
+You can view your different contacts, filter them by number or name. 
+In addition, you can transform money, randomly, to one of your contacts by pressing on the "I'm flexible" button. You would get a message about the details right after, of course.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Contacts page image](src/assets/imgs/contact-desktop-regular.jpg "Contacts page")
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Add a new contact
+In the same page, you can click on the button "Add a new contact", and the right fields would appear.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Add a contact mode - image](src/assets/imgs/contact-dekstop-add.jpg "Add a contact mode")
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Some mobile!
+<img src="src/assets/imgs/trailer-mobile" width="25%" style="float: left;"/>
+<img src="src/assets/imgs/trailer-dekstop.png" width="25%" style="float: left"/>
+<img src="src/assets/imgs/trailer-mobile1.jpg" width="25%" style="float: left;"/>
