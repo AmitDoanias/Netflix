@@ -44,5 +44,5 @@ Open http://localhost:3000 to view it in the browser.
 ### Trailer
 ![Trailer image](src/assets/imgs/trailer-dekstop.png "Trailer")
 ### Some mobile!
-<img src="src/assets/imgs/home-mobile.png" width="50%" style="float: left;"/><img src="src/assets/imgs/trailer-mobile1.png" width="50%" style="float: left;"/>
+<img src="src/assets/imgs/home-mobile.png" width="35%" style="float: left;"/><img src="src/assets/imgs/trailer-mobile1.png" width="35%" style="float: left;"/>
 
